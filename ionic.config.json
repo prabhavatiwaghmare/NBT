@@ -1,6 +1,8 @@
 {
   "name": "NBT",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "8a697209"
 }
